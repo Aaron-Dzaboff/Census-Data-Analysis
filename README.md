@@ -19,7 +19,7 @@ census data of 2.5 million individuals represented by 68 categorical variables. 
 other public data sources (e.g. https://www.data.gov/) or your own custom-scraped data set
 could be used to augment the census data set.
 
-Your mission:
+The mission:
 
 Choose variables that you think is relevant for law/policy making. Map those variables into
 appropriate numerical representations suitable for clustering. Perform cluster analysis using
